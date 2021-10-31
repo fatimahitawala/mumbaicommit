@@ -1,1 +1,2 @@
 print_r("hello world")
+echo fun1
